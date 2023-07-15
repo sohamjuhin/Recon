@@ -1,5 +1,21 @@
 # Recon
 Recon Tool
+___________________________________________________________________________________________________________________________________
+A Recon tool, short for reconnaissance tool, is a software or script used in the field of cybersecurity, particularly in ethical hacking and penetration testing. It is designed to gather information and perform reconnaissance on a target system or network. The primary purpose of a recon tool is to gather intelligence about potential vulnerabilities, weaknesses, and configuration issues that could be exploited.
+
+Recon tools utilize various techniques to collect information about the target, such as:
+
+1. Port scanning: Scanning target systems for open ports and services.
+2. Banner grabbing: Extracting information from service banners or responses.
+3. Whois lookup: Gathering information about domain registration, ownership, and contact details.
+4. DNS enumeration: Enumerating DNS records to gather information about subdomains and hosts.
+5. Web scraping: Extracting information from websites, including directory structures and hidden files.
+6. OS fingerprinting: Determining the operating system of a target host.
+7. Social engineering: Gathering information from publicly available sources, social media, or through human interaction.
+
+Recon tools play a crucial role in the initial phase of an ethical hacking engagement by providing valuable insights into the target environment. However, it's important to note that recon activities should always be conducted with proper authorization and within the boundaries of applicable laws and ethical guidelines.
+
+It's worth mentioning that there are both open-source and commercial recon tools available, each with its own set of features and capabilities. These tools can range from simple command-line scripts to comprehensive frameworks that offer advanced reconnaissance techniques and automated scanning capabilities.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 To run the recon tool:
