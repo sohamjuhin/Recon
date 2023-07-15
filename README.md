@@ -16,6 +16,7 @@ Recon tools utilize various techniques to collect information about the target, 
 Recon tools play a crucial role in the initial phase of an ethical hacking engagement by providing valuable insights into the target environment. However, it's important to note that recon activities should always be conducted with proper authorization and within the boundaries of applicable laws and ethical guidelines.
 
 It's worth mentioning that there are both open-source and commercial recon tools available, each with its own set of features and capabilities. These tools can range from simple command-line scripts to comprehensive frameworks that offer advanced reconnaissance techniques and automated scanning capabilities.
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 To run the recon tool:
